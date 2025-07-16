@@ -1,4 +1,4 @@
-FROM python:3.14-rc-bullseye
+FROM python:3.12-slim
 
 LABEL "maintainer"="Scott Ng <thuongnht@gmail.com>"
 LABEL "repository"="https://github.com/cross-the-world/ssh-pipeline"
